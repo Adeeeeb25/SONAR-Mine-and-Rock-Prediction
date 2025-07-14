@@ -1,4 +1,5 @@
 🎯 Sonar Mine vs Rock Prediction using Machine Learning
+
 This project uses machine learning to classify objects as either mines or rocks based on sonar signals. The model is trained on a dataset of sonar returns bouncing off metal cylinders (mines) and rocks beneath the surface. The goal is to help in underwater object detection using a predictive model.
 
 🚀 Project Overview
